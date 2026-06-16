@@ -1,0 +1,2 @@
+When using this dataset please use the following citation and pay attention to the rights documented in rights.txt:
+University of Natural Resources and Life Sciences, Vienna (2024). Roadkill. Occurrence dataset https://doi.org/10.15468/ejb47y accessed via GBIF.org on 2026-06-16.
